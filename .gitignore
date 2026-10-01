@@ -6,4 +6,5 @@ css/style.prefix.css
 .DS_Store
 Thumbs.db
 .vscode/
-.txt
+*.txt
+*.css
